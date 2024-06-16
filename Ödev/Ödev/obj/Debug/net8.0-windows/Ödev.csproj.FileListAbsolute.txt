@@ -1,0 +1,16 @@
+C:\Users\faruk\source\repos\Ödev\Ödev\bin\Debug\net8.0-windows\Ödev.exe
+C:\Users\faruk\source\repos\Ödev\Ödev\bin\Debug\net8.0-windows\Ödev.deps.json
+C:\Users\faruk\source\repos\Ödev\Ödev\bin\Debug\net8.0-windows\Ödev.runtimeconfig.json
+C:\Users\faruk\source\repos\Ödev\Ödev\bin\Debug\net8.0-windows\Ödev.dll
+C:\Users\faruk\source\repos\Ödev\Ödev\bin\Debug\net8.0-windows\Ödev.pdb
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\Ödev.Form1.resources
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\Ödev.csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\Ödev.AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\Ödev.AssemblyInfo.cs
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\Ödev.dll
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\refint\Ödev.dll
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\Ödev.pdb
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\Ödev.genruntimeconfig.cache
+C:\Users\faruk\source\repos\Ödev\Ödev\obj\Debug\net8.0-windows\ref\Ödev.dll
